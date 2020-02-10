@@ -1289,5 +1289,8 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
-
+/*lists*/
+.listTobeonleft li{float: left;
+width: fit-content;
+text-align: left;}
 /*# sourceMappingURL=style.css.map */
